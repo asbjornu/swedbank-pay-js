@@ -2194,10 +2194,10 @@ eslint-config-prettier@~6.10.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-plugin-jest@~23.8.2:
-  version "23.8.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-23.8.2.tgz#6f28b41c67ef635f803ebd9e168f6b73858eb8d4"
-  integrity sha512-xwbnvOsotSV27MtAe7s8uGWOori0nUsrXh2f1EnpmXua8sDfY6VZhHAhHg2sqK7HBNycRQExF074XSZ7DvfoFg==
+eslint-plugin-jest@~23.18.1:
+  version "23.18.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-23.18.1.tgz#284e44f480cc82c0ccfaf5a0cb2d2fe34ec2497d"
+  integrity sha512-1FDnKJxWm+XnVp36wyTUK6SLADtqMLIH4UbX96mPHE5b1dGoA5LfIGdhHyN+TiZ6U7o89JVEJsaiDJJIKI4p+g==
   dependencies:
     "@typescript-eslint/experimental-utils" "^2.5.0"
 
